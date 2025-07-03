@@ -1,0 +1,5 @@
+LDG 20250703 - z tego co rozumiem jest jeden server z 3x (table) database (nb2 niedostepna)
+
+NAZWA SERVERA: QuizApp_render
+trzeca tabla ma taka sama nazwe jak srodowisko postgres w renderze
+wiec przyjmuje ze to ta czyta (trzecia w pgAdmin4)

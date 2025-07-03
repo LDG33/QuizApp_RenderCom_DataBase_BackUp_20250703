@@ -1,0 +1,11 @@
+LDG 20250703
+
+exportuje do GitHub LDG33 bo musze usunac baze danych w Render.com
+zeby nie placic...
+
+Da sie zrobic 2 instancje tego samego polaczenia
+Server-Register-Server
+Tzn. ze tylko musze zalozyc baze na Render.com > podlaczyc sie pod pgAdmin4 > zaimportowac/wyeksportowac tabele (albo zalazyc swoja - sa tylko 3 kolumny)
+
+
+NA GitHub NIE MA HASEL DO RENDER.COM ZE WZGLEDOW BEZPIECZENSTWA - SZUKAJ NA DYSKU E
